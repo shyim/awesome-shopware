@@ -28,6 +28,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Template Manager](https://github.com/webmatch/WbmTemplateManager) - Template Manager
 * [ReCaptcha Backend Login](https://github.com/KSK-Agentur/HeptacomBackendCaptcha) - ReCaptcha Backend Login
 * [More Shopware Shortcuts](https://github.com/uehler/shopware-shortcuts) - More Shopware Shortcuts
+* [Google Authenticator Login](https://github.com/shyim/shopware-google-auth) - Adds Google Authenticator Support to Login
 
 ## Command Line
 * [sw-cli-tools](https://github.com/shopwareLabs/sw-cli-tools) - The shopware CLI tools are your console helpers for all kind of shopware tasks
