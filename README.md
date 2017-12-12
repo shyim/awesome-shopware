@@ -13,6 +13,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 - [Connectors](#connectors)
 - [Development Plugins](#developmentplugins)
 - [Frontend Development Resources](#frontenddevelopmentresources)
+- [Frontend Plugins](#frontendplugins)
 - [Local Development](#localdevelopment)
 - [Payment Plugins](#paymentplugins)
 - [Themes](#themes)
@@ -51,6 +52,14 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [shopware-missing-includes](https://github.com/screeny05/shopware-missing-includes) - A collection of Smarty-includes providing handy features when building a Shopware shop
 * [shopware-vueify](https://github.com/screeny05/shopware-vueify) - Write Vue.js components for use within the Shopware-StateManager
 
+## Frontend Plugins
+* [360° Product viewer](https://github.com/shopwareLabs/SwagThreeSixtyViewer) - 360° Product viewer for detail page
+* [WebP Support](https://github.com/shyim/ShyimWebP) - Adds WebP Support to Shopware
+* [Disqus](https://github.com/shyim/ShyimDisqus) - Replaces Blog Comments with Disqus
+* [Customer-specific prices](https://github.com/shopwareLabs/SwagUserPrice) - Customer-specific prices
+* [Share Buttons](https://github.com/KSK-Agentur/HeptacomAdvancedShare) - Adds Share Buttons
+* [Thumbnail Sizes in Frontend](https://github.com/shyim/ShyimThumbnailSize) - Makes Thumbnail sizes in Frontend available
+
 ## Local Development
 * [shopware-docker](https://github.com/shopwareLabs/shopware-docker) - A docker setup ready for shopware development
 * [shopware-vagrant](https://github.com/shopwareLabs/shopware-vagrant) - A Vagrant setup ready for shopware development
@@ -62,6 +71,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Stripe](https://github.com/VIISON/ShopwareStripePayment) - Stripe integration
 * [Ratepay](https://github.com/ratepay/shopware5-module) - Ratepay integration
 * [MercadoPago](https://github.com/pthreat/StangeMercadoPago) - MercadoPago integration
+* [Wallee](https://github.com/wallee-payment/shopware) - Wallee integration
 
 ## Themes
 * [Bootstrap based Theme](https://github.com/conexco/shopware-bootstrap-theme) - Shopware Bootstrap Theme
