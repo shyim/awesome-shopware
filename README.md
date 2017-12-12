@@ -8,16 +8,18 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ## Table of Contents
 
-- [Backend Plugins](#backendplugins)
-- [Command Line](#commandline)
+- [Backend Plugins](#backend-plugins)
+- [Command Line](#command-line)
+- [Configuration](#configuration)
 - [Connectors](#connectors)
-- [Development Plugins](#developmentplugins)
-- [Frontend Development Resources](#frontenddevelopmentresources)
-- [Frontend Plugins](#frontendplugins)
-- [Local Development](#localdevelopment)
-- [Payment Plugins](#paymentplugins)
+- [Development Plugins](#development-plugins)
+- [Error Reporting](#error-reporting)
+- [Frontend Development Resources](#frontend-development-resources)
+- [Frontend Plugins](#frontend-plugins)
+- [Local Development](#local-development)
+- [Payment Plugins](#payment-plugins)
 - [Themes](#themes)
-- [Media Adapter](#mediaadapter)
+- [Media Adapter](#media-adapter)
 
 ## Backend Plugins
 * [ShyimBackendNotification](https://github.com/shyim/ShyimBackendNotification) - Backend Notification when multiple users working parallel
@@ -49,11 +51,6 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Shopware API SDK C#](https://github.com/shopdoktor/shopware-csharp-api-connector) - Shopware API SDK written in C#
 * [Shopware API SDK Go](https://github.com/philipgatzka/swclient) - Shopware API SDK written in Go
 
-## Error Reporting
-* [Bugsnag](https://github.com/shopware-blog/shopware-bugsnag) - Bugsnag Error Reporting
-* [Rollbar](https://github.com/shyim/ShyimRollbar) - Rollbar Error Reporting
-* [Sentry](https://github.com/1drop/shopware-sentry) - Sentry Error Reporting 
-
 ## Development Plugins
 * [Adminer for Shopware](https://github.com/shyim/adminer-for-shopware) - A web database client integration
 * [Shopware Profiler](https://github.com/shyim/shopware-profiler) - A symfony profiler integration
@@ -62,6 +59,11 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Theme Settings Export](https://github.com/simkli/SimklThemeSettingExport) - Im- and exporter for theme settings to transfer these between systems or stages
 * [PackagistPluginManager](https://github.com/shyim/ShyimPluginManager) - A packagist integration for Shopware plugins
 * [Viewport Resizer](https://github.com/webmatch/WbmViewportResizer) - Shopware-Plugin to preview the Frontend in responsive viewports
+
+## Error Reporting
+* [Bugsnag](https://github.com/shopware-blog/shopware-bugsnag) - Bugsnag Error Reporting
+* [Rollbar](https://github.com/shyim/ShyimRollbar) - Rollbar Error Reporting
+* [Sentry](https://github.com/1drop/shopware-sentry) - Sentry Error Reporting 
 
 ## Frontend Development Resources
 * [shopware-missing-mixins](https://github.com/screeny05/shopware-missing-mixins) - A collection of handy LESS-Mixins to complement Shopware
