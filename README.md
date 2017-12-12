@@ -13,6 +13,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 - [Local Development](#localdevelopment)
 - [Frontend Development Resources](#frontenddevelopmentresources)
 - [Command Line](#commandline)
+- [Themes](#themes)
 
 ## Payment Plugins
 * [Paypal](https://github.com/shopwareLabs/SwagPaymentPaypal) - A PayPal integration for shopware
@@ -41,3 +42,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 ## Command Line
 * [sw-cli-tools](https://github.com/shopwareLabs/sw-cli-tools) - The shopware CLI tools are your console helpers for all kind of shopware tasks
 * [scs-commander](https://github.com/VIISON/scs-commander) - A CLI tool for managing plugins in the Shopware Community Store.
+
+## Themes
+* [Bootstrap based Theme](https://github.com/conexco/shopware-bootstrap-theme) - Shopware Bootstrap Theme
+* [Flat Theme](https://github.com/8mylezOrganization/shopware-8mzFlatResponsiveTheme) - Responsive Theme in Flat
