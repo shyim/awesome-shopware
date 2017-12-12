@@ -8,13 +8,32 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ## Table of Contents
 
+- [Backend Plugins](#backendplugins)
+- [Command Line](#commandline)
+- [Connectors](#connectors)
 - [Payment Plugins](#paymentplugins)
 - [Development Plugins](#developmentplugins)
-- [Backend Plugins](#backendplugins)
 - [Local Development](#localdevelopment)
 - [Frontend Development Resources](#frontenddevelopmentresources)
-- [Command Line](#commandline)
 - [Themes](#themes)
+
+## Backend Plugins
+* [ShyimBackendNotification](https://github.com/shyim/ShyimBackendNotification) - Backend Notification when multiple users working parallel
+* [Backend Order](https://github.com/shopwareLabs/SwagBackendOrder) - Plugin which allows you to create orders via backend module
+* [Import Export](https://github.com/shopwareLabs/SwagImportExport) - Import and Export articles, categories
+* [Shopware Migration](https://github.com/shopwareLabs/SwagMigration) - Migrate to Shopware from Magento, Gambio, Oxid, xt:Commerce, Prestashop, WooCommerce
+* [Remove License Warning](https://github.com/shyim/ShyimRemoveLicenseWarning) - Removes license warnings in Backend
+* [Query Manager](https://github.com/webmatch/WbmQueryManager) - Query Manager
+* [Template Manager](https://github.com/webmatch/WbmTemplateManager) - Template Manager
+* [ReCaptcha Backend Login](https://github.com/KSK-Agentur/HeptacomBackendCaptcha) - ReCaptcha Backend Login
+* [More Shopware Shortcuts](https://github.com/uehler/shopware-shortcuts) - More Shopware Shortcuts
+
+## Command Line
+* [sw-cli-tools](https://github.com/shopwareLabs/sw-cli-tools) - The shopware CLI tools are your console helpers for all kind of shopware tasks
+* [scs-commander](https://github.com/VIISON/scs-commander) - A CLI tool for managing plugins in the Shopware Community Store.
+
+## Connectors
+* [Plenty Markets](https://github.com/plentymarkets/plentymarkets-shopware-connector) - Plenty Markets Connector
 
 ## Payment Plugins
 * [Paypal](https://github.com/shopwareLabs/SwagPaymentPaypal) - A PayPal integration for shopware
@@ -30,13 +49,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Mail Catcher](https://github.com/shyim/ShyimMailCatcher) - Catches mails and displays them in the backend for easier mail debugging
 * [Theme Settings Export](https://github.com/simkli/SimklThemeSettingExport) - Im- and exporter for theme settings to transfer these between systems or stages
 * [PackagistPluginManager](https://github.com/shyim/ShyimPluginManager) - A packagist integration for Shopware plugins
-
-## Backend Plugins
-* [ShyimBackendNotification](https://github.com/shyim/ShyimBackendNotification) - Backend Notification when multiple users working parallel
-* [Backend Order](https://github.com/shopwareLabs/SwagBackendOrder) - Plugin which allows you to create orders via backend module
-* [Import Export](https://github.com/shopwareLabs/SwagImportExport) - Import and Export articles, categories
-* [Shopware Migration](https://github.com/shopwareLabs/SwagMigration) - Migrate to Shopware from Magento, Gambio, Oxid, xt:Commerce, Prestashop, WooCommerce
-* [Remove License Warning](https://github.com/shyim/ShyimRemoveLicenseWarning) - Removes license warnings in Backend
+* [Viewport Resizer](https://github.com/webmatch/WbmViewportResizer) - Shopware-Plugin to preview the Frontend in responsive viewports
 
 ## Local Development
 * [shopware-docker](https://github.com/shopwareLabs/shopware-docker) - A docker setup ready for shopware development
@@ -46,10 +59,6 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [shopware-missing-mixins](https://github.com/screeny05/shopware-missing-mixins) - A collection of handy LESS-Mixins to complement Shopware
 * [shopware-missing-includes](https://github.com/screeny05/shopware-missing-includes) - A collection of Smarty-includes providing handy features when building a Shopware shop
 * [shopware-vueify](https://github.com/screeny05/shopware-vueify) - Write Vue.js components for use within the Shopware-StateManager
-
-## Command Line
-* [sw-cli-tools](https://github.com/shopwareLabs/sw-cli-tools) - The shopware CLI tools are your console helpers for all kind of shopware tasks
-* [scs-commander](https://github.com/VIISON/scs-commander) - A CLI tool for managing plugins in the Shopware Community Store.
 
 ## Themes
 * [Bootstrap based Theme](https://github.com/conexco/shopware-bootstrap-theme) - Shopware Bootstrap Theme
