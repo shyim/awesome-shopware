@@ -12,6 +12,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 - [Development Plugins](#developmentplugins)
 - [Local Development](#localdevelopment)
 - [Frontend Development Resources](#frontenddevelopmentresources)
+- [Command Line](#commandline)
 
 ## Payment Plugins
 * [Paypal](https://github.com/shopwareLabs/SwagPaymentPaypal) - A PayPal integration for shopware
@@ -35,3 +36,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [shopware-missing-mixins](https://github.com/screeny05/shopware-missing-mixins) - A collection of handy LESS-Mixins to complement Shopware
 * [shopware-missing-includes](https://github.com/screeny05/shopware-missing-includes) - A collection of Smarty-includes providing handy features when building a Shopware shop
 * [shopware-vueify](https://github.com/screeny05/shopware-vueify) - Write Vue.js components for use within the Shopware-StateManager
+
+## Command Line
+* [sw-cli-tools](https://github.com/shopwareLabs/sw-cli-tools) - The shopware CLI tools are your console helpers for all kind of shopware tasks
+* [scs-commander](https://github.com/VIISON/scs-commander) - A CLI tool for managing plugins in the Shopware Community Store.
