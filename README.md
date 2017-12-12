@@ -19,6 +19,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Paypal Plus](https://github.com/shopwareLabs/SwagPaymentPaypalPlus) - Paypal Plus integration
 * [Payone](https://github.com/PAYONE-GmbH/shopware-5) - Payone integration
 * [Stripe](https://github.com/VIISON/ShopwareStripePayment) - Stripe integration
+* [Ratepay](https://github.com/ratepay/shopware5-module) - Ratepay integration
 
 ## Development Plugins
 * [Adminer for Shopware](https://github.com/shyim/adminer-for-shopware) - A web database client integration
