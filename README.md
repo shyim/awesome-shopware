@@ -16,6 +16,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 - [Local Development](#localdevelopment)
 - [Payment Plugins](#paymentplugins)
 - [Themes](#themes)
+- [Media Adapter](#mediaadapter)
 
 ## Backend Plugins
 * [ShyimBackendNotification](https://github.com/shyim/ShyimBackendNotification) - Backend Notification when multiple users working parallel
@@ -63,3 +64,9 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 ## Themes
 * [Bootstrap based Theme](https://github.com/conexco/shopware-bootstrap-theme) - Shopware Bootstrap Theme
 * [Flat Theme](https://github.com/8mylezOrganization/shopware-8mzFlatResponsiveTheme) - Responsive Theme in Flat
+
+## Media Adapter
+* [S3](https://github.com/shopwareLabs/SwagMediaS3) - Amazon S3 Media Adapter
+* [GCP](https://github.com/shopwareLabs/SwagMediaGCP) - Google Cloud Storage Adapter
+* [SFTP](https://github.com/shopwareLabs/SwagMediaSftp) - SFTP Adapter
+* [Azure](https://github.com/shopwareLabs/SwagMediaAzure) - Microsoft Azure Adapter
