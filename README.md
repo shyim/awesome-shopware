@@ -61,10 +61,17 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Payone](https://github.com/PAYONE-GmbH/shopware-5) - Payone integration
 * [Stripe](https://github.com/VIISON/ShopwareStripePayment) - Stripe integration
 * [Ratepay](https://github.com/ratepay/shopware5-module) - Ratepay integration
+* [MercadoPago](https://github.com/pthreat/StangeMercadoPago) - MercadoPago integration
 
 ## Themes
 * [Bootstrap based Theme](https://github.com/conexco/shopware-bootstrap-theme) - Shopware Bootstrap Theme
 * [Flat Theme](https://github.com/8mylezOrganization/shopware-8mzFlatResponsiveTheme) - Responsive Theme in Flat
+
+## Tracking
+* [Google Integration](https://github.com/shopwareLabs/SwagGoogle) - Shopware integration for Google Analytics, Universal Analytics and Google Adwords services
+* [Google Remarketing](https://github.com/arvatis/GoogleRemarketing) - Adds Google Remarketing
+* [Nosto](https://github.com/Nosto/nosto-shopware) - Nosto Integration
+* [Tawk.to](https://github.com/shyim/ShopwareTawkTo) - Tawk.to Chat
 
 ## Media Adapter
 * [S3](https://github.com/shopwareLabs/SwagMediaS3) - Amazon S3 Media Adapter
