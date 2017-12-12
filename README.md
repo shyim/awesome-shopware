@@ -11,10 +11,10 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 - [Backend Plugins](#backendplugins)
 - [Command Line](#commandline)
 - [Connectors](#connectors)
-- [Payment Plugins](#paymentplugins)
 - [Development Plugins](#developmentplugins)
-- [Local Development](#localdevelopment)
 - [Frontend Development Resources](#frontenddevelopmentresources)
+- [Local Development](#localdevelopment)
+- [Payment Plugins](#paymentplugins)
 - [Themes](#themes)
 
 ## Backend Plugins
@@ -35,13 +35,6 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 ## Connectors
 * [Plenty Markets](https://github.com/plentymarkets/plentymarkets-shopware-connector) - Plenty Markets Connector
 
-## Payment Plugins
-* [Paypal](https://github.com/shopwareLabs/SwagPaymentPaypal) - A PayPal integration for shopware
-* [Paypal Plus](https://github.com/shopwareLabs/SwagPaymentPaypalPlus) - Paypal Plus integration
-* [Payone](https://github.com/PAYONE-GmbH/shopware-5) - Payone integration
-* [Stripe](https://github.com/VIISON/ShopwareStripePayment) - Stripe integration
-* [Ratepay](https://github.com/ratepay/shopware5-module) - Ratepay integration
-
 ## Development Plugins
 * [Adminer for Shopware](https://github.com/shyim/adminer-for-shopware) - A web database client integration
 * [Shopware Profiler](https://github.com/shyim/shopware-profiler) - A symfony profiler integration
@@ -51,14 +44,21 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [PackagistPluginManager](https://github.com/shyim/ShyimPluginManager) - A packagist integration for Shopware plugins
 * [Viewport Resizer](https://github.com/webmatch/WbmViewportResizer) - Shopware-Plugin to preview the Frontend in responsive viewports
 
-## Local Development
-* [shopware-docker](https://github.com/shopwareLabs/shopware-docker) - A docker setup ready for shopware development
-* [shopware-vagrant](https://github.com/shopwareLabs/shopware-vagrant) - A Vagrant setup ready for shopware development
-
 ## Frontend Development Resources
 * [shopware-missing-mixins](https://github.com/screeny05/shopware-missing-mixins) - A collection of handy LESS-Mixins to complement Shopware
 * [shopware-missing-includes](https://github.com/screeny05/shopware-missing-includes) - A collection of Smarty-includes providing handy features when building a Shopware shop
 * [shopware-vueify](https://github.com/screeny05/shopware-vueify) - Write Vue.js components for use within the Shopware-StateManager
+
+## Local Development
+* [shopware-docker](https://github.com/shopwareLabs/shopware-docker) - A docker setup ready for shopware development
+* [shopware-vagrant](https://github.com/shopwareLabs/shopware-vagrant) - A Vagrant setup ready for shopware development
+
+## Payment Plugins
+* [Paypal](https://github.com/shopwareLabs/SwagPaymentPaypal) - A PayPal integration for shopware
+* [Paypal Plus](https://github.com/shopwareLabs/SwagPaymentPaypalPlus) - Paypal Plus integration
+* [Payone](https://github.com/PAYONE-GmbH/shopware-5) - Payone integration
+* [Stripe](https://github.com/VIISON/ShopwareStripePayment) - Stripe integration
+* [Ratepay](https://github.com/ratepay/shopware5-module) - Ratepay integration
 
 ## Themes
 * [Bootstrap based Theme](https://github.com/conexco/shopware-bootstrap-theme) - Shopware Bootstrap Theme
