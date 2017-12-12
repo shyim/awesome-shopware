@@ -8,3 +8,6 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 ## Table of Contents
 
 - [Payment Plugins](#paymentplugins)
+
+## Payment Plugins
+* [Paypal](https://github.com/shopwareLabs/SwagPaymentPaypal) - A PayPal integration for shopware
