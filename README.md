@@ -10,6 +10,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 - [Payment Plugins](#paymentplugins)
 - [Development Plugins](#developmentplugins)
+- [Backend Plugins](#backendplugins)
 - [Local Development](#localdevelopment)
 - [Frontend Development Resources](#frontenddevelopmentresources)
 - [Command Line](#commandline)
@@ -29,6 +30,12 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Mail Catcher](https://github.com/shyim/ShyimMailCatcher) - Catches mails and displays them in the backend for easier mail debugging
 * [Theme Settings Export](https://github.com/simkli/SimklThemeSettingExport) - Im- and exporter for theme settings to transfer these between systems or stages
 * [PackagistPluginManager](https://github.com/shyim/ShyimPluginManager) - A packagist integration for Shopware plugins
+
+## Backend Plugins
+* [ShyimBackendNotification](https://github.com/shyim/ShyimBackendNotification) - Backend Notification when multiple users working parallel
+* [Backend Order](https://github.com/shopwareLabs/SwagBackendOrder) - Plugin which allows you to create orders via backend module
+* [Import Export](https://github.com/shopwareLabs/SwagImportExport) - Import and Export articles, categories
+* [Shopware Migration](https://github.com/shopwareLabs/SwagMigration) - Migrate to Shopware from Magento, Gambio, Oxid, xt:Commerce, Prestashop, WooCommerce
 
 ## Local Development
 * [shopware-docker](https://github.com/shopwareLabs/shopware-docker) - A docker setup ready for shopware development
