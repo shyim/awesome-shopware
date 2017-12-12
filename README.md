@@ -30,13 +30,29 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [ReCaptcha Backend Login](https://github.com/KSK-Agentur/HeptacomBackendCaptcha) - ReCaptcha Backend Login
 * [More Shopware Shortcuts](https://github.com/uehler/shopware-shortcuts) - More Shopware Shortcuts
 * [Google Authenticator Login](https://github.com/shyim/shopware-google-auth) - Adds Google Authenticator Support to Login
+* [Mittwald Security Plugin](https://github.com/mittwald/shopware-security-tools) - Adds some security tools
 
 ## Command Line
 * [sw-cli-tools](https://github.com/shopwareLabs/sw-cli-tools) - The shopware CLI tools are your console helpers for all kind of shopware tasks
 * [scs-commander](https://github.com/VIISON/scs-commander) - A CLI tool for managing plugins in the Shopware Community Store.
 
+## Configuration
+* [Nginx](https://github.com/bcremer/shopware-with-nginx) - Nginx and Shopware
+* [Caddy](https://github.com/janbuecker/shopware-with-caddy) - Caddy and Shopware
+
 ## Connectors
 * [Plenty Markets](https://github.com/plentymarkets/plentymarkets-shopware-connector) - Plenty Markets Connector
+* [Shopware Connect](https://github.com/shopware/SwagConnect) - Shopware Connect
+* [Shopware API SDK PHP](https://github.com/LeadCommerceDE/shopware-sdk) - Shopware API SDK written in PHP
+* [Shopware API SDK Javascript](https://github.com/apertureless/shopware-api-client) - Shopware API SDK written in Javascript
+* [Shopware API SDK Python](https://github.com/micronax/python-shopware-rest-client) - Shopware API SDK written in Python
+* [Shopware API SDK C#](https://github.com/shopdoktor/shopware-csharp-api-connector) - Shopware API SDK written in C#
+* [Shopware API SDK Go](https://github.com/philipgatzka/swclient) - Shopware API SDK written in Go
+
+## Error Reporting
+* [Bugsnag](https://github.com/shopware-blog/shopware-bugsnag) - Bugsnag Error Reporting
+* [Rollbar](https://github.com/shyim/ShyimRollbar) - Rollbar Error Reporting
+* [Sentry](https://github.com/1drop/shopware-sentry) - Sentry Error Reporting 
 
 ## Development Plugins
 * [Adminer for Shopware](https://github.com/shyim/adminer-for-shopware) - A web database client integration
@@ -59,6 +75,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Customer-specific prices](https://github.com/shopwareLabs/SwagUserPrice) - Customer-specific prices
 * [Share Buttons](https://github.com/KSK-Agentur/HeptacomAdvancedShare) - Adds Share Buttons
 * [Thumbnail Sizes in Frontend](https://github.com/shyim/ShyimThumbnailSize) - Makes Thumbnail sizes in Frontend available
+* [Optimus.io Optimizer](https://github.com/tinect/TinectOptimusOptimizer) - Optimus.io Image optimizer
 
 ## Local Development
 * [shopware-docker](https://github.com/shopwareLabs/shopware-docker) - A docker setup ready for shopware development
@@ -72,6 +89,11 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Ratepay](https://github.com/ratepay/shopware5-module) - Ratepay integration
 * [MercadoPago](https://github.com/pthreat/StangeMercadoPago) - MercadoPago integration
 * [Wallee](https://github.com/wallee-payment/shopware) - Wallee integration
+* [Paymill](https://github.com/paymill/paymill-shopware) - Paymill integration
+* [Molle](https://github.com/mollie/Shopware) - Molle integration
+* [Wirecard](https://github.com/wirecard/shopware-wcs) - Wirecard integration
+* [Heidelpay](https://github.com/heidelpay-sp/ShopwareStandardModul) - Heidelpay integration
+* [G2A Pay](https://github.com/g2a-official/g2a-pay-shopware) - G2A Pay integration
 
 ## Themes
 * [Bootstrap based Theme](https://github.com/conexco/shopware-bootstrap-theme) - Shopware Bootstrap Theme
@@ -80,8 +102,10 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 ## Tracking
 * [Google Integration](https://github.com/shopwareLabs/SwagGoogle) - Shopware integration for Google Analytics, Universal Analytics and Google Adwords services
 * [Google Remarketing](https://github.com/arvatis/GoogleRemarketing) - Adds Google Remarketing
-* [Nosto](https://github.com/Nosto/nosto-shopware) - Nosto Integration
+* [Nosto](https://github.com/Nosto/nosto-shopware) - Nosto integration
 * [Tawk.to](https://github.com/shyim/ShopwareTawkTo) - Tawk.to Chat
+* [Easymarketing](https://github.com/EASYMARKETING/shopware) - Easymarketing integration
+* [Stetic](https://github.com/stetic/stetic-shopware) - Stetic integration
 
 ## Media Adapter
 * [S3](https://github.com/shopwareLabs/SwagMediaS3) - Amazon S3 Media Adapter
