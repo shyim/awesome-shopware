@@ -1,5 +1,6 @@
-Awesome Shopware
-===============
+<img src="https://en.shopware.com/media/image/sw-icon_blue128.png" alt="Shopware Logo" title="Shopware" align="right" height="110"/>
+
+# Awesome Shopware
 
 > A curated list of awesome bookmarks, packages, tutorials, videos and other cool resources from the [Shopware](https://github.com/shopware/shopware) ecosystem.
 
