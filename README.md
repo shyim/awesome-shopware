@@ -105,6 +105,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Google Integration](https://github.com/shopwareLabs/SwagGoogle) - Shopware integration for Google Analytics, Universal Analytics and Google Adwords services
 * [Google Remarketing](https://github.com/arvatis/GoogleRemarketing) - Adds Google Remarketing
 * [Nosto](https://github.com/Nosto/nosto-shopware) - Nosto integration
+* [Tag Manager Integration](https://github.com/webmatch/WbmTagManager) - integration of GTM and backend configuration of dataLayer contents
 * [Tawk.to](https://github.com/shyim/ShopwareTawkTo) - Tawk.to Chat
 * [Easymarketing](https://github.com/EASYMARKETING/shopware) - Easymarketing integration
 * [Stetic](https://github.com/stetic/stetic-shopware) - Stetic integration
