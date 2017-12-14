@@ -108,7 +108,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Wirecard](https://github.com/wirecard/shopware-wcs) - Wirecard integration
 * [Heidelpay](https://github.com/heidelpay-sp/ShopwareStandardModul) - Heidelpay integration
 * [G2A Pay](https://github.com/g2a-official/g2a-pay-shopware) - G2A Pay integration
-* [iPayent](https://github.com/shopwareLabs/SwagPaymentIpayment) - iPayment integration
+* [iPayment](https://github.com/shopwareLabs/SwagPaymentIpayment) - iPayment integration
 
 ## Themes
 * [Bootstrap based Theme](https://github.com/conexco/shopware-bootstrap-theme) - Shopware Bootstrap Theme
