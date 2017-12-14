@@ -14,6 +14,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 - [Connectors](#connectors)
 - [Development Plugins](#development-plugins)
 - [Error Reporting](#error-reporting)
+- [Plugin Examples](#plugin-examples)
 - [Frontend Development Resources](#frontend-development-resources)
 - [Frontend Plugins](#frontend-plugins)
 - [Local Development](#local-development)
@@ -33,6 +34,8 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [More Shopware Shortcuts](https://github.com/uehler/shopware-shortcuts) - More Shopware Shortcuts
 * [Google Authenticator Login](https://github.com/shyim/shopware-google-auth) - Adds Google Authenticator Support to Login
 * [Mittwald Security Plugin](https://github.com/mittwald/shopware-security-tools) - Adds some security tools
+* [Extend Plugin Manager](https://github.com/tinect/tinectExtendPluginManager) - Adds plugin store links to the Plugin Manager
+* [TinyMCE Custom Font](https://github.com/shopwareLabs/SwagTinyMceCustomFont) - Adds custom font support to the Backend editor
 
 ## Command Line
 * [sw-cli-tools](https://github.com/shopwareLabs/sw-cli-tools) - The shopware CLI tools are your console helpers for all kind of shopware tasks
@@ -65,6 +68,12 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Rollbar](https://github.com/shyim/ShyimRollbar) - Rollbar Error Reporting
 * [Sentry](https://github.com/1drop/shopware-sentry) - Sentry Error Reporting 
 
+## Plugin Examples
+* [Model Test](https://github.com/bcremer/SwagModelTest) - Custom Model (5.2)
+* [Price Calculator](https://github.com/synonymous1984/SynonymousPriceCalculator) - Service Decorator (5.2)
+* [Session Handler](https://github.com/bcremer/SwagSessionHandler) - Session Handler (5.2)
+* [Product Discount](https://github.com/shopwareLabs/SwagProductDiscount) - Plugin Prototype (labs/next)
+
 ## Frontend Development Resources
 * [shopware-missing-mixins](https://github.com/screeny05/shopware-missing-mixins) - A collection of handy LESS-Mixins to complement Shopware
 * [shopware-missing-includes](https://github.com/screeny05/shopware-missing-includes) - A collection of Smarty-includes providing handy features when building a Shopware shop
@@ -78,6 +87,9 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Share Buttons](https://github.com/KSK-Agentur/HeptacomAdvancedShare) - Adds Share Buttons
 * [Thumbnail Sizes in Frontend](https://github.com/shyim/ShyimThumbnailSize) - Makes Thumbnail sizes in Frontend available
 * [Optimus.io Optimizer](https://github.com/tinect/TinectOptimusOptimizer) - Optimus.io Image optimizer
+* [AMP](https://github.com/KSK-Agentur/HeptacomAmp) - Adds AMP Support
+* [Browser Language](https://github.com/shopwareLabs/SwagBrowserLanguage) - Language detection for multi shop setups
+* [Custom Sort](https://github.com/shopwareLabs/SwagCustomSort) - Customize article sorting in categories
 
 ## Local Development
 * [shopware-docker](https://github.com/shopwareLabs/shopware-docker) - A docker setup ready for shopware development
@@ -96,6 +108,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Wirecard](https://github.com/wirecard/shopware-wcs) - Wirecard integration
 * [Heidelpay](https://github.com/heidelpay-sp/ShopwareStandardModul) - Heidelpay integration
 * [G2A Pay](https://github.com/g2a-official/g2a-pay-shopware) - G2A Pay integration
+* [iPayent](https://github.com/shopwareLabs/SwagPaymentIpayment) - iPayment integration
 
 ## Themes
 * [Bootstrap based Theme](https://github.com/conexco/shopware-bootstrap-theme) - Shopware Bootstrap Theme
@@ -104,6 +117,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 ## Tracking
 * [Google Integration](https://github.com/shopwareLabs/SwagGoogle) - Shopware integration for Google Analytics, Universal Analytics and Google Adwords services
 * [Google Remarketing](https://github.com/arvatis/GoogleRemarketing) - Adds Google Remarketing
+* [Google Certified Stores](https://github.com/arvatis/GoogleCertifiedStores) - Google Certified Shop Integration
 * [Nosto](https://github.com/Nosto/nosto-shopware) - Nosto integration
 * [Tag Manager Integration](https://github.com/webmatch/WbmTagManager) - integration of GTM and backend configuration of dataLayer contents
 * [Tawk.to](https://github.com/shyim/ShopwareTawkTo) - Tawk.to Chat
