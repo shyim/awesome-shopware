@@ -27,7 +27,6 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Backend Order](https://github.com/shopwareLabs/SwagBackendOrder) - Plugin which allows you to create orders via backend module
 * [Import Export](https://github.com/shopwareLabs/SwagImportExport) - Import and Export articles, categories
 * [Shopware Migration](https://github.com/shopwareLabs/SwagMigration) - Migrate to Shopware from Magento, Gambio, Oxid, xt:Commerce, Prestashop, WooCommerce
-* [Remove License Warning](https://github.com/shyim/ShyimRemoveLicenseWarning) - Removes license warnings in Backend
 * [Query Manager](https://github.com/webmatch/WbmQueryManager) - Query Manager
 * [Template Manager](https://github.com/webmatch/WbmTemplateManager) - Template Manager
 * [ReCaptcha Backend Login](https://github.com/KSK-Agentur/HeptacomBackendCaptcha) - ReCaptcha Backend Login
