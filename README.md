@@ -62,6 +62,10 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [PackagistPluginManager](https://github.com/shyim/ShyimPluginManager) - A packagist integration for Shopware plugins
 * [Viewport Resizer](https://github.com/webmatch/WbmViewportResizer) - Shopware-Plugin to preview the Frontend in responsive viewports
 
+## IDE / PhpStorm Plugins
+* [Shopware Plugin](https://github.com/Haehnchen/idea-php-shopware-plugin) - Shopware Plugin
+* [Symfony Plugin](https://github.com/Haehnchen/idea-php-symfony2-plugin) - Symfony Plugin
+
 ## Error Reporting
 * [Bugsnag](https://github.com/shopware-blog/shopware-bugsnag) - Bugsnag Error Reporting
 * [Rollbar](https://github.com/shyim/ShyimRollbar) - Rollbar Error Reporting
