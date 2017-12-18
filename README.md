@@ -98,6 +98,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 ## Local Development
 * [shopware-docker](https://github.com/shopwareLabs/shopware-docker) - A docker setup ready for shopware development
 * [shopware-vagrant](https://github.com/shopwareLabs/shopware-vagrant) - A Vagrant setup ready for shopware development
+* [netshops/docker-setup](https://github.com/Netshops-Commerce-GmbH/docker-setup) - Another docker setup made for web applications (Shopware configs included)
 
 ## Payment Plugins
 * [Paypal](https://github.com/shopwareLabs/SwagPaymentPaypal) - A PayPal integration for shopware
