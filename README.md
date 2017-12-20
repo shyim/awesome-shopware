@@ -66,6 +66,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 ## IDE / PhpStorm Plugins
 * [Shopware Plugin](https://github.com/Haehnchen/idea-php-shopware-plugin) - Shopware Plugin
 * [Symfony Plugin](https://github.com/Haehnchen/idea-php-symfony2-plugin) - Symfony Plugin
+* [PHP Annotations](https://github.com/Haehnchen/idea-php-annotation-plugin) - PHP Annotations
 
 ## Error Reporting
 * [Bugsnag](https://github.com/shopware-blog/shopware-bugsnag) - Bugsnag Error Reporting
