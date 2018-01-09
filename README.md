@@ -96,6 +96,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [AMP](https://github.com/KSK-Agentur/HeptacomAmp) - Adds AMP Support
 * [Browser Language](https://github.com/shopwareLabs/SwagBrowserLanguage) - Language detection for multi shop setups
 * [Custom Sort](https://github.com/shopwareLabs/SwagCustomSort) - Customize article sorting in categories
+* [HybridAuth](https://github.com/portrino/shopware-hybrid-auth) - Shopware Plugin for Social Login (Amazon, Google, Facebook, LinkedIn)
 
 ## Local Development
 * [shopware-docker](https://github.com/shopwareLabs/shopware-docker) - A docker setup ready for shopware development
