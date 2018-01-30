@@ -84,6 +84,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [shopware-missing-mixins](https://github.com/screeny05/shopware-missing-mixins) - A collection of handy LESS-Mixins to complement Shopware
 * [shopware-missing-includes](https://github.com/screeny05/shopware-missing-includes) - A collection of Smarty-includes providing handy features when building a Shopware shop
 * [shopware-vueify](https://github.com/screeny05/shopware-vueify) - Write Vue.js components for use within the Shopware-StateManager
+* [shopware-typedef](https://github.com/screeny05/shopware-typedef) - Shopware 5 Typescript definitions
 
 ## Frontend Plugins
 * [360° Product viewer](https://github.com/shopwareLabs/SwagThreeSixtyViewer) - 360° Product viewer for detail page
