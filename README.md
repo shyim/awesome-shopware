@@ -98,6 +98,8 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Browser Language](https://github.com/shopwareLabs/SwagBrowserLanguage) - Language detection for multi shop setups
 * [Custom Sort](https://github.com/shopwareLabs/SwagCustomSort) - Customize article sorting in categories
 * [HybridAuth](https://github.com/portrino/shopware-hybrid-auth) - Shopware Plugin for Social Login (Amazon, Google, Facebook, LinkedIn)
+* [Mini Basket Tax Information](https://github.com/marcmanusch/PaulMiniBasketFix) - Adds to the Mini Basket Tax information
+* [Article Accessory Direct Buy](https://github.com/aquatuning/atsd-article-accessory-direct-buy) - Buy article accessory from detail page 
 
 ## Local Development
 * [shopware-docker](https://github.com/shopwareLabs/shopware-docker) - A docker setup ready for shopware development
@@ -130,8 +132,10 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Nosto](https://github.com/Nosto/nosto-shopware) - Nosto integration
 * [Tag Manager Integration](https://github.com/webmatch/WbmTagManager) - integration of GTM and backend configuration of dataLayer contents
 * [Tawk.to](https://github.com/shyim/ShopwareTawkTo) - Tawk.to Chat
+* [Livezilla](https://github.com/marcmanusch/PaulLiveZillaKnowledgeBase) - Livezilla Integration
 * [Easymarketing](https://github.com/EASYMARKETING/shopware) - Easymarketing integration
 * [Stetic](https://github.com/stetic/stetic-shopware) - Stetic integration
+* [Bing Tracking](https://github.com/marcmanusch/PaulBingTracking) - Bing Tracking
 
 ## Media Adapter
 * [S3](https://github.com/shopwareLabs/SwagMediaS3) - Amazon S3 Media Adapter
