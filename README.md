@@ -28,6 +28,8 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Backend Order](https://github.com/shopwareLabs/SwagBackendOrder) - Plugin which allows you to create orders via backend module
 * [Import Export](https://github.com/shopwareLabs/SwagImportExport) - Import and Export articles, categories
 * [Shopware Migration](https://github.com/shopwareLabs/SwagMigration) - Migrate to Shopware from Magento, Gambio, Oxid, xt:Commerce, Prestashop, WooCommerce
+* [Query Manager](https://github.com/webmatch/WbmQueryManager) - Query Manager	
+* [Template Manager](https://github.com/webmatch/WbmTemplateManager) - Template Manager
 * [ReCaptcha Backend Login](https://github.com/KSK-Agentur/HeptacomBackendCaptcha) - ReCaptcha Backend Login
 * [More Shopware Shortcuts](https://github.com/uehler/shopware-shortcuts) - More Shopware Shortcuts
 * [Google Authenticator Login](https://github.com/shyim/shopware-google-auth) - Adds Google Authenticator Support to Login
@@ -59,6 +61,8 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Mail Catcher](https://github.com/shyim/ShyimMailCatcher) - Catches mails and displays them in the backend for easier mail debugging
 * [Theme Settings Export](https://github.com/simkli/SimklThemeSettingExport) - Im- and exporter for theme settings to transfer these between systems or stages
 * [PackagistPluginManager](https://github.com/shyim/ShyimPluginManager) - A packagist integration for Shopware plugins
+* [Viewport Resizer](https://github.com/webmatch/WbmViewportResizer) - Shopware-Plugin to preview the Frontend in responsive viewports
+* [View Snapshots](https://github.com/dneustadt/DnViewSnapshots) - allows you to record/log views and restore them
 
 ## IDE / PhpStorm Plugins
 * [Shopware Plugin](https://github.com/Haehnchen/idea-php-shopware-plugin) - Shopware Plugin
@@ -97,6 +101,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [HybridAuth](https://github.com/portrino/shopware-hybrid-auth) - Shopware Plugin for Social Login (Amazon, Google, Facebook, LinkedIn)
 * [Mini Basket Tax Information](https://github.com/marcmanusch/PaulMiniBasketFix) - Adds to the Mini Basket Tax information
 * [Article Accessory Direct Buy](https://github.com/aquatuning/atsd-article-accessory-direct-buy) - Buy article accessory from detail page 
+* [Variant Switch](https://github.com/dneustadt/DnVariantSwitch) - switch variants in basket and checkout views
 
 ## Local Development
 * [shopware-docker](https://github.com/shopwareLabs/shopware-docker) - A docker setup ready for shopware development
@@ -127,6 +132,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Google Remarketing](https://github.com/arvatis/GoogleRemarketing) - Adds Google Remarketing
 * [Google Certified Stores](https://github.com/arvatis/GoogleCertifiedStores) - Google Certified Shop Integration
 * [Nosto](https://github.com/Nosto/nosto-shopware) - Nosto integration
+* [Tag Manager Integration](https://github.com/webmatch/WbmTagManager) - integration of GTM and backend configuration of dataLayer contents
 * [Tawk.to](https://github.com/shyim/ShopwareTawkTo) - Tawk.to Chat
 * [Livezilla](https://github.com/marcmanusch/PaulLiveZillaKnowledgeBase) - Livezilla Integration
 * [Easymarketing](https://github.com/EASYMARKETING/shopware) - Easymarketing integration
