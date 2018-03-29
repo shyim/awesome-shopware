@@ -102,6 +102,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Mini Basket Tax Information](https://github.com/marcmanusch/PaulMiniBasketFix) - Adds to the Mini Basket Tax information
 * [Article Accessory Direct Buy](https://github.com/aquatuning/atsd-article-accessory-direct-buy) - Buy article accessory from detail page 
 * [Variant Switch](https://github.com/dneustadt/DnVariantSwitch) - switch variants in basket and checkout views
+* [GDPR Compliance](https://github.com/mnaczenski/MNAddDSVGO) - plugin that adds gdpr compliance
 
 ## Local Development
 * [shopware-docker](https://github.com/shopwareLabs/shopware-docker) - A docker setup ready for shopware development
