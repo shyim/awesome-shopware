@@ -62,7 +62,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Theme Settings Export](https://github.com/simkli/SimklThemeSettingExport) - Im- and exporter for theme settings to transfer these between systems or stages
 * [PackagistPluginManager](https://github.com/shyim/ShyimPluginManager) - A packagist integration for Shopware plugins
 * [Viewport Resizer](https://github.com/webmatch/WbmViewportResizer) - Shopware-Plugin to preview the Frontend in responsive viewports
-* [View Snapshots](https://github.com/dneustadt/DnViewSnapshots) - allows you to record/log views and restore them
+* [View Snapshots](https://github.com/FriendsOfShopware/FroshViewSnapshots) - allows you to record/log views and restore them
 
 ## IDE / PhpStorm Plugins
 * [Shopware Plugin](https://github.com/Haehnchen/idea-php-shopware-plugin) - Shopware Plugin
@@ -101,7 +101,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [HybridAuth](https://github.com/portrino/shopware-hybrid-auth) - Shopware Plugin for Social Login (Amazon, Google, Facebook, LinkedIn)
 * [Mini Basket Tax Information](https://github.com/marcmanusch/PaulMiniBasketFix) - Adds to the Mini Basket Tax information
 * [Article Accessory Direct Buy](https://github.com/aquatuning/atsd-article-accessory-direct-buy) - Buy article accessory from detail page 
-* [Variant Switch](https://github.com/dneustadt/DnVariantSwitch) - switch variants in basket and checkout views
+* [Variant Switch](https://github.com/FriendsOfShopware/FroshVariantSwitch) - switch variants in basket and checkout views
 * [GDPR Compliance](https://github.com/mnaczenski/MNAddDSVGO) - plugin that adds gdpr compliance
 
 ## Local Development
