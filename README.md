@@ -104,6 +104,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Article Accessory Direct Buy](https://github.com/aquatuning/atsd-article-accessory-direct-buy) - Buy article accessory from detail page 
 * [Variant Switch](https://github.com/FriendsOfShopware/FroshVariantSwitch) - switch variants in basket and checkout views
 * [GDPR Compliance](https://github.com/mnaczenski/MNAddDSVGO) - plugin that adds gdpr compliance
+* [Security Headers](https://github.com/kielcoding/KielCodingSecurityHeaders) - plugin that adds security headers
 
 ## Local Development
 * [shopware-docker](https://github.com/shopwareLabs/shopware-docker) - A docker setup ready for shopware development
