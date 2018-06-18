@@ -55,10 +55,10 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Shopware API SDK Go](https://github.com/philipgatzka/swclient) - Shopware API SDK written in Go
 
 ## Development Plugins
-* [Adminer for Shopware](https://github.com/shyim/adminer-for-shopware) - A web database client integration
-* [Shopware Profiler](https://github.com/shyim/shopware-profiler) - A symfony profiler integration
+* [Adminer for Shopware](https://github.com/FriendsOfShopware/FroshAdminer) - A web database client integration
+* [Shopware Profiler](https://github.com/FriendsOfShopware/FroshProfiler) - A symfony profiler integration
 * [Whoops for Shopware](https://github.com/shyim/whoops-for-shopware) - An error message beautifier
-* [Mail Catcher](https://github.com/shyim/ShyimMailCatcher) - Catches mails and displays them in the backend for easier mail debugging
+* [Mail Catcher](https://github.com/FriendsOfShopware/FroshMailCatcher) - Catches mails and displays them in the backend for easier mail debugging
 * [Theme Settings Export](https://github.com/simkli/SimklThemeSettingExport) - Im- and exporter for theme settings to transfer these between systems or stages
 * [PackagistPluginManager](https://github.com/shyim/ShyimPluginManager) - A packagist integration for Shopware plugins
 * [Viewport Resizer](https://github.com/webmatch/WbmViewportResizer) - Shopware-Plugin to preview the Frontend in responsive viewports
