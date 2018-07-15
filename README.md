@@ -36,6 +36,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Mittwald Security Plugin](https://github.com/mittwald/shopware-security-tools) - Adds some security tools
 * [Extend Plugin Manager](https://github.com/tinect/tinectExtendPluginManager) - Adds plugin store links to the Plugin Manager
 * [TinyMCE Custom Font](https://github.com/shopwareLabs/SwagTinyMceCustomFont) - Adds custom font support to the Backend editor
+* [MailArchive](https://github.com/tinect/TinectMailArchive) - Check all sent mails of your shop
 
 ## Command Line
 * [sw-cli-tools](https://github.com/shopwareLabs/sw-cli-tools) - The shopware CLI tools are your console helpers for all kind of shopware tasks
@@ -141,6 +142,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Easymarketing](https://github.com/EASYMARKETING/shopware) - Easymarketing integration
 * [Stetic](https://github.com/stetic/stetic-shopware) - Stetic integration
 * [Bing Tracking](https://github.com/marcmanusch/PaulBingTracking) - Bing Tracking
+* [Matomo](https://github.com/tinect/TinectMatomo) - Matomo/Piwik-Tracking
 
 ## Media Adapter
 * [S3](https://github.com/shopwareLabs/SwagMediaS3) - Amazon S3 Media Adapter
