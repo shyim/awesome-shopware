@@ -65,6 +65,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Viewport Resizer](https://github.com/webmatch/WbmViewportResizer) - Shopware-Plugin to preview the Frontend in responsive viewports
 * [View Snapshots](https://github.com/FriendsOfShopware/FroshViewSnapshots) - allows you to record/log views and restore them
 * [Custom JavaScript/CSS Manager](https://github.com/dneustadt/DneCustomJsCss) - manage custom JavaScript and CSS/LESS containers
+* [Prod2Testing](https://github.com/mschop/shopware-prod2testing) - anonymize Shopware database for use of live-data in development environments
 
 ## IDE / PhpStorm Plugins
 * [Shopware Plugin](https://github.com/Haehnchen/idea-php-shopware-plugin) - Shopware Plugin
