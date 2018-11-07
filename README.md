@@ -83,6 +83,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Price Calculator](https://github.com/synonymous1984/SynonymousPriceCalculator) - Service Decorator (5.2)
 * [Session Handler](https://github.com/bcremer/SwagSessionHandler) - Session Handler (5.2)
 * [Product Discount](https://github.com/shopwareLabs/SwagProductDiscount) - Plugin Prototype (labs/next)
+* [Subscriber Test](https://github.com/rofthedeep/SubscriberTest) - Writing Tests for Shopware Subscriber
 
 ## Frontend Development Resources
 * [shopware-missing-mixins](https://github.com/screeny05/shopware-missing-mixins) - A collection of handy LESS-Mixins to complement Shopware
