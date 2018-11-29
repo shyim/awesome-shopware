@@ -1,6 +1,6 @@
 <img src="https://de.shopware.com/media/unknown/2d/80/8c/shopware_signet_blue.svg" alt="Shopware Logo" title="Shopware" align="right" height="110"/>
 
-# Awesome Shopware
+# Awesome Shopware [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 > A curated list of awesome bookmarks, packages, tutorials, videos and other cool resources from the [Shopware](https://github.com/shopware/shopware) ecosystem.
 
