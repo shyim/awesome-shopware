@@ -6,7 +6,7 @@
 
 Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
-## Table of Contents
+## Contents
 
 - [Backend Plugins](#backend-plugins)
 - [Command Line](#command-line)
@@ -153,3 +153,8 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [GCP](https://github.com/shopwareLabs/SwagMediaGCP) - Google Cloud Storage Adapter
 * [SFTP](https://github.com/shopwareLabs/SwagMediaSftp) - SFTP Adapter
 * [Azure](https://github.com/shopwareLabs/SwagMediaAzure) - Microsoft Azure Adapter
+
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
