@@ -1,4 +1,4 @@
-<img src="https://en.shopware.com/media/image/sw-icon_blue128.png" alt="Shopware Logo" title="Shopware" align="right" height="110"/>
+<img src="https://de.shopware.com/media/unknown/2d/80/8c/shopware_signet_blue.svg" alt="Shopware Logo" title="Shopware" align="right" height="110"/>
 
 # Awesome Shopware
 
