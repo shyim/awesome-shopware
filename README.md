@@ -133,6 +133,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 ## Themes
 * [Bootstrap based Theme](https://github.com/conexco/shopware-bootstrap-theme) - Shopware Bootstrap Theme
 * [Flat Theme](https://github.com/8mylezOrganization/shopware-8mzFlatResponsiveTheme) - Responsive Theme in Flat
+* [Views Theme](https://github.com/Blur-Creative/theme-views) - The Views Theme for Shopware 5 is responsive, customizable, flexible, multipurpose, beautiful and open source
 
 ## Tracking
 * [Google Integration](https://github.com/shopwareLabs/SwagGoogle) - Shopware integration for Google Analytics, Universal Analytics and Google Adwords services
