@@ -136,7 +136,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 - [MercadoPago](https://github.com/pthreat/StangeMercadoPago) - MercadoPago integration.
 - [Wallee](https://github.com/wallee-payment/shopware) - Wallee integration.
 - [Paymill](https://github.com/paymill/paymill-shopware) - Paymill integration.
-- [Molle](https://github.com/mollie/Shopware) - Molle integration.
+- [Mollie](https://github.com/mollie/Shopware) - Mollie integration.
 - [Wirecard](https://github.com/wirecard/shopware-wcs) - Wirecard integration.
 - [Heidelpay](https://github.com/heidelpay-sp/ShopwareStandardModul) - Heidelpay integration.
 - [G2A Pay](https://github.com/g2a-official/g2a-pay-shopware) - G2A Pay integration.
