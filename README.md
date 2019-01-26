@@ -72,6 +72,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 - [View Snapshots](https://github.com/FriendsOfShopware/FroshViewSnapshots) - Records views (snapshots) and restore them at a later time.
 - [Custom JavaScript/CSS Manager](https://github.com/dneustadt/DneCustomJsCss) - Manage custom JavaScript and CSS/LESS containers.
 - [Prod2Testing](https://github.com/mschop/shopware-prod2testing) - Anonymize Shopware database for use of live data in development environments.
+- [HTTP Cache Exclude](https://github.com/FriendsOfShopware/FroshHttpCacheIpExclude) - Exclude clients from Shopware HTTP Cache by IP, Params or Cookies
 
 ## IDE / PhpStorm Plugins
 
@@ -120,6 +121,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 - [Security Headers](https://github.com/kielcoding/KielCodingSecurityHeaders) - Adds security headers.
 - [Performance Improvements](https://github.com/FriendsOfShopware/FroshPerformance) - Adds http2 push, minifies html etc.
 - [Shopping Worlds on Shop Pages](https://github.com/runelaenen/RuneShoppingWorldPages) - Can replace Shop Page content with Shopping World
+- [Data Table Layout](https://github.com/FriendsOfShopware/FroshDataTableLayout) - Adds data table to the available product layouts of categories/search/manufacturer
 
 ## Local Development
 
