@@ -119,6 +119,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 - [GDPR Compliance](https://github.com/mnaczenski/MNAddDSVGO) - Adds GDPR compliance.
 - [Security Headers](https://github.com/kielcoding/KielCodingSecurityHeaders) - Adds security headers.
 - [Performance Improvements](https://github.com/FriendsOfShopware/FroshPerformance) - Adds http2 push, minifies html etc.
+- [Shopping Worlds on Shop Pages](https://github.com/runelaenen/RuneShoppingWorldPages) - Can replace Shop Page content with Shopping World
 
 ## Local Development
 
