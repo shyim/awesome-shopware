@@ -36,9 +36,9 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 - [More Shopware Shortcuts](https://github.com/uehler/shopware-shortcuts) - Adds more Shopware Shortcuts.
 - [Google Authenticator Login](https://github.com/shyim/shopware-google-auth) - Adds Google Authenticator support for the backend login.
 - [Mittwald Security Plugin](https://github.com/mittwald/shopware-security-tools) - Adds some security tools.
-- [Extend Plugin Manager](https://github.com/tinect/tinectExtendPluginManager) - Adds plugin store links to the Plugin Manager.
+- [Extended Plugin Manager](https://github.com/FriendsOfShopware/FroshExtendedPluginManager) - Adds plugin store links to the Plugin Manager.
 - [TinyMCE Custom Font](https://github.com/shopwareLabs/SwagTinyMceCustomFont) - Adds custom font support to the backend editor.
-- [MailArchive](https://github.com/tinect/TinectMailArchive) - Adds an archive for all sent mails in Shopware.
+- [MailArchive](https://github.com/FriendsOfShopware/FroshMailArchive) - Adds an archive for all sent mails in Shopware.
 
 ## Command Line
 
@@ -104,12 +104,12 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 ## Frontend Plugins
 
 - [360° Product viewer](https://github.com/shopwareLabs/SwagThreeSixtyViewer) - 360° Product viewer for detail pages.
-- [WebP Support](https://github.com/shyim/ShyimWebP) - Adds WebP Support to Shopware.
+- [WebP Support](https://github.com/FriendsOfShopware/FroshWebp) - Adds WebP Support to Shopware.
 - [Disqus](https://github.com/shyim/ShyimDisqus) - Replaces blog comments with Disqus.
 - [Customer-specific prices](https://github.com/shopwareLabs/SwagUserPrice) - Customer-specific prices.
 - [Share Buttons](https://github.com/KSK-Agentur/HeptacomAdvancedShare) - Adds social share buttons.
 - [Thumbnail Sizes in Frontend](https://github.com/shyim/ShyimThumbnailSize) - Makes thumbnail sizes in frontend available.
-- [Optimus.io Optimizer](https://github.com/tinect/TinectOptimusOptimizer) - Optimus.io image optimizer.
+- [Optimus.io Optimizer](https://github.com/FriendsOfShopware/FroshOptimusMediaOptimizer) - Optimus.io image optimizer.
 - [AMP](https://github.com/KSK-Agentur/HeptacomAmp) - Adds AMP support.
 - [Browser Language](https://github.com/shopwareLabs/SwagBrowserLanguage) - Language detection for multi shop setups.
 - [Custom Sort](https://github.com/shopwareLabs/SwagCustomSort) - Customize article sorting in categories.
@@ -170,6 +170,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 - [GCP](https://github.com/shopwareLabs/SwagMediaGCP) - Google Cloud Storage adapter.
 - [SFTP](https://github.com/shopwareLabs/SwagMediaSftp) - SFTP adapter.
 - [Azure](https://github.com/shopwareLabs/SwagMediaAzure) - Microsoft Azure adapter.
+- [BunnyCDN](https://github.com/FriendsOfShopware/FroshBunnycdnMediaStorage) - BunnyCDN adapter.
 
 
 ## License
