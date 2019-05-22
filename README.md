@@ -39,6 +39,8 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 - [Extended Plugin Manager](https://github.com/FriendsOfShopware/FroshExtendedPluginManager) - Adds plugin store links to the Plugin Manager.
 - [TinyMCE Custom Font](https://github.com/shopwareLabs/SwagTinyMceCustomFont) - Adds custom font support to the backend editor.
 - [MailArchive](https://github.com/FriendsOfShopware/FroshMailArchive) - Adds an archive for all sent mails in Shopware.
+- [Order Documents: Allow multiple documents per type](https://github.com/buddhaCode/BucoAllowMultipleDocuments) - Allow creation of multiple documents per type and order.
+- [Orders: Documents API](https://github.com/buddhaCode/BucoOrderDocumentsApi) - REST API endpoint to access and delete order documents.
 
 ## Command Line
 
@@ -122,6 +124,9 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 - [Performance Improvements](https://github.com/FriendsOfShopware/FroshPerformance) - Adds http2 push, minifies html etc.
 - [Shopping Worlds on Shop Pages](https://github.com/runelaenen/RuneShoppingWorldPages) - Can replace Shop Page content with Shopping World
 - [Data Table Layout](https://github.com/FriendsOfShopware/FroshDataTableLayout) - Adds data table to the available product layouts of categories/search/manufacturer
+- [Font assets preloading](https://github.com/buddhaCode/BcFontPreload) - Preload font assets to reduce roundtrips and speed up frontend loading.
+- [HTTP Cache: Forms](https://github.com/buddhaCode/BucoFormsHttpCache) - HTTP caching, warming and invalidation for contact forms
+- [HTTP Cache: Shop pages in modal boxes](https://github.com/buddhaCode/BucoStaticXhrHttpCache) - HTTP cache warming for shop pages in modal boxes
 
 ## Local Development
 
