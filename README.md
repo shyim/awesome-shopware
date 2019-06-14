@@ -41,6 +41,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 - [MailArchive](https://github.com/FriendsOfShopware/FroshMailArchive) - Adds an archive for all sent mails in Shopware.
 - [Order Documents: Allow multiple documents per type](https://github.com/buddhaCode/BucoAllowMultipleDocuments) - Allow creation of multiple documents per type and order.
 - [Orders: Documents API](https://github.com/buddhaCode/BucoOrderDocumentsApi) - REST API endpoint to access and delete order documents.
+- [Orders: Part documents](https://github.com/buddhaCode/BucoPartDocuments) - Create order documents for just a subset of positions of an order.
 
 ## Command Line
 
