@@ -57,7 +57,6 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 - [Plenty Markets](https://github.com/plentymarkets/plentymarkets-shopware-connector) - Plenty Markets Connector.
 - [Shopware Connect](https://github.com/shopware/SwagConnect) - Shopware Connect.
-- [Shopware API SDK PHP](https://github.com/LeadCommerceDE/shopware-sdk) - Shopware API SDK written in PHP.
 - [Shopware API SDK JavaScript](https://github.com/apertureless/shopware-api-client) - Shopware API SDK written in JavaScript.
 - [Shopware API SDK Python](https://github.com/micronax/python-shopware-rest-client) - Shopware API SDK written in Python.
 - [Shopware API SDK C#](https://github.com/shopdoktor/shopware-csharp-api-connector) - Shopware API SDK written in C#.
