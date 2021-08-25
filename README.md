@@ -60,7 +60,6 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 - [Shopware API SDK JavaScript](https://github.com/apertureless/shopware-api-client) - Shopware API SDK written in JavaScript.
 - [Shopware API SDK Python](https://github.com/micronax/python-shopware-rest-client) - Shopware API SDK written in Python.
 - [Shopware API SDK C#](https://github.com/shopdoktor/shopware-csharp-api-connector) - Shopware API SDK written in C#.
-- [Shopware API SDK Go](https://github.com/philipgatzka/swclient) - Shopware API SDK written in Go.
 
 ## Development Plugins
 
