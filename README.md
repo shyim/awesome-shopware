@@ -133,6 +133,10 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 - [shopware-docker](https://github.com/shopwareLabs/shopware-docker) - A Docker setup ready for Shopware development.
 - [shopware-vagrant](https://github.com/shopwareLabs/shopware-vagrant) - A Vagrant setup ready for Shopware development.
 - [netshops/docker-setup](https://github.com/Netshops-Commerce-GmbH/docker-setup) - Another docker setup made for web applications (Shopware configs included).
+- [Shopware Database Synchronizer](https://github.com/jellesiderius/sw-db-sync) - Database synchronizer for Shopware 6. Keeping development, staging and production in sync easily.
+
+License
+ OSL-3.0 license
 
 ## Payment Plugins
 
