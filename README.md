@@ -79,6 +79,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 ## IDE / PhpStorm Plugins
 
 - [Shopware Plugin](https://github.com/Haehnchen/idea-php-shopware-plugin) - PhpStorm Shopware plugin.
+- [Shopware 6 Toolbox](https://github.com/shopwareLabs/shopware6-phpstorm-plugin) - PhpStorm Shopware 6 plugin.
 - [Symfony Plugin](https://github.com/Haehnchen/idea-php-symfony2-plugin) - PhpStorm Symfony Plugin.
 - [PHP Annotations](https://github.com/Haehnchen/idea-php-annotation-plugin) - PhpStorm Annotations plugin.
 - [PHP Toolbox](https://github.com/Haehnchen/idea-php-toolbox) - PHP Toolbox includes some Shopware configurations.
