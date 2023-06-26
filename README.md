@@ -128,6 +128,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 - [Font assets preloading](https://github.com/buddhaCode/BcFontPreload) - Preload font assets to reduce roundtrips and speed up frontend loading.
 - [HTTP Cache: Forms](https://github.com/buddhaCode/BucoFormsHttpCache) - HTTP caching, warming and invalidation for contact forms
 - [HTTP Cache: Shop pages in modal boxes](https://github.com/buddhaCode/BucoStaticXhrHttpCache) - HTTP cache warming for shop pages in modal boxes
+- [Address verification with email and phone validation](https://store.shopware.com/en/loqat57696326011f/address-verification-with-email-and-phone-validation.html) - Address validation
 
 ## Local Development
 
