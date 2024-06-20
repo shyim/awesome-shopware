@@ -129,6 +129,8 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 - [HTTP Cache: Forms](https://github.com/buddhaCode/BucoFormsHttpCache) - HTTP caching, warming and invalidation for contact forms
 - [HTTP Cache: Shop pages in modal boxes](https://github.com/buddhaCode/BucoStaticXhrHttpCache) - HTTP cache warming for shop pages in modal boxes
 - [Address verification with email and phone validation](https://store.shopware.com/en/loqat57696326011f/address-verification-with-email-and-phone-validation.html) - Address validation
+- [https://github.com/akshaynikhare/SloxMatomoEcomerce] - Matomo eCommerce tracking
+- [https://github.com/akshaynikhare/SloxAdditionalCurrency] - display additional currency in storefront 
 
 ## Local Development
 
@@ -151,6 +153,8 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 - [Heidelpay](https://github.com/heidelpay-sp/ShopwareStandardModul) - Heidelpay integration.
 - [G2A Pay](https://github.com/g2a-official/g2a-pay-shopware) - G2A Pay integration.
 - [iPayment](https://github.com/shopwareLabs/SwagPaymentIpayment) - IPayment integration.
+- [https://github.com/steampixel/SteamPixelSepa] - Show SEPA payment fields on checkout page
+- [https://nowpayments.io/payment-integration/shopware-plugin] - crypto payment for shopware 6
 
 ## Themes
 
