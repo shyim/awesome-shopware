@@ -42,6 +42,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 - [Order Documents: Allow multiple documents per type](https://github.com/buddhaCode/BucoAllowMultipleDocuments) - Allow creation of multiple documents per type and order.
 - [Orders: Documents API](https://github.com/buddhaCode/BucoOrderDocumentsApi) - REST API endpoint to access and delete order documents.
 - [Orders: Part documents](https://github.com/buddhaCode/BucoPartDocuments) - Create order documents for just a subset of positions of an order.
+- [Admin SSO Login](https://github.com/HEPTACOM/HeptacomShopwarePlatformAdminOpenAuth) - Login into your administration using your company SSO provider like Microsoft Entra, Google Work and Keycloak
 
 ## Command Line
 
